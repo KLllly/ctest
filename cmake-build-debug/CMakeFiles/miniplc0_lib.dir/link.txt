@@ -1,0 +1,2 @@
+/usr/bin/ar qc libminiplc0_lib.a  CMakeFiles/miniplc0_lib.dir/tokenizer/tokenizer.cpp.o CMakeFiles/miniplc0_lib.dir/analyser/analyser.cpp.o CMakeFiles/miniplc0_lib.dir/file.cpp.o CMakeFiles/miniplc0_lib.dir/vm.cpp.o
+/usr/bin/ranlib libminiplc0_lib.a

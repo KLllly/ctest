@@ -1,0 +1,16 @@
+int g0 = 42;
+ int g1 = 1;
+
+int fun(int num) {
+int a;
+a = 1;
+    return -num;
+}
+
+int main() {
+int a;
+scan(a);
+print(a);
+print(fun(a));
+    return fun(-123456);
+}
